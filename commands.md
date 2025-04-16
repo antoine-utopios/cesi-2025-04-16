@@ -14,6 +14,18 @@ docker ps
 docker pull <nom-image>
 ```
 
+* Pour rechercher des images disponibles sur le registre lié 
+
+```bash
+docker search <query>
+```
+
+* Pour inspecter une ressource Docker
+
+```bash
+docker inspect <id | name>
+```
+
 * Lancer un conteneur à partir d'une image 
 
 ```bash
@@ -26,6 +38,9 @@ docker run <nom-image>
 `--name` Pour nommer notre conteneur et éviter de le perdre 
 `--rm` Pour supprimer les données également lors de la suppression du conteneur
 `-p <port-hote>:<port-conteneur>` Pour faire du port forwarding entre l'hôte (notre machine) et le conteneur
+`-v <chemin-conteneur>` Création d'un volume anonyme dans le but de sauvegarder un chemin de fichier / dossier
+`-v <nom-volume>:<chemin-conteneur>` Création d'un volume nommé  dans le but de sauvegarder un chemin de fichier / dossier
+`-v <chemin-hote>:<chemin-conteneur>` Création d'un bind mount dans le but de sauvegarder un chemin de fichier / dossier
 
 * Pour stopper des conteneurs
 
@@ -38,6 +53,8 @@ docker stop <id | nom>
 ```bash
 docker rm <id | nom>
 ```
+
+`-f` Forcer la fermeture du conteneur en amont de la suppression
 
 * Pour libérer toute une catégorie de ressource
 
