@@ -130,3 +130,32 @@ CMD ["command", "subcommand"]
 # On choisi le point d'entrée dans le conteneur avec l'instruction suivante (Plus resctrictive et utilisée pour faire des conteneurs utilitaires)
 ENTRYPOINT ["command", "subcommand"]
 ```
+
+### Structure de base du YAML 
+
+Le Yaml est un langage de sayntaxe permettant le déploiement de ressources Docker via docker compose, il se structure de la sorte
+
+* Pour faire une propriété et une valeur 
+
+```yml
+property: value
+```
+
+* Pour faire une propriété possédant plusieurs valeurs sous la forme d'une liste 
+
+```yml
+property: 
+- valueA
+- valueB
+- valueC
+```
+
+Pour faire une propriété ayant comme valeur un objet :
+
+```yml
+property: 
+  subPropA: value
+  subPropB: value
+  subPropC: value
+```
+

@@ -7,6 +7,13 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var dbHostname = Environment.GetEnvironmentVariable("DB_HOSTNAME");
+var dbName = Environment.GetEnvironmentVariable("DB_NAME");
+var dbUsername = Environment.GetEnvironmentVariable("DB_USERNAME");
+var dbPassword = Environment.GetEnvironmentVariable("DB_PASSWORD");
+
+var connectionString = $"Server= {dbHostname};Database={dbName};User Id={dbUsername};Password={dbPassword};TrustServerCertificate=True;";
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,0 +1,42 @@
+services:
+  sql-server:
+    image: mysql
+    container_name: sql-server
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: testDb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: /run/secrets/db_password
+    ports:
+      - "3306:3306"
+      - "33060:33060"
+    volumes:
+      - sql-server-data:/var/lib/mysql
+
+  web-api:
+    build:
+      context: ./web-api
+      dockerfile: Dockerfile
+    container_name: web-api
+    environment:
+      - DB_HOSTNAME=sql-server
+      - DB_NAME=testDb
+      - DB_USERNAME=user
+      - DB_PASSWORD=/run/secrets/db_password
+    ports:
+      - "80:8080"
+    depends_on:
+      - sql-server
+
+volumes:
+  sql-server-data:
+
+secrets:
+  db_password:
+    file: ./secrets/db_password.txt
