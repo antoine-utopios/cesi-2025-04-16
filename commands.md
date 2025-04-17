@@ -8,6 +8,14 @@ docker ps
 
 * `-a` Pour également voir ceux en état d'arret.
 
+### Voir la liste des images disponibles sur la machine 
+
+```bash
+docker images
+
+docker image ls
+```
+
 ### Récupérer une image sur DockerHub 
 
 ```bash
@@ -42,6 +50,12 @@ docker run <nom-image>
 * `-v <nom-volume>:<chemin-conteneur>` Création d'un volume nommé  dans le but de sauvegarder un chemin de fichier / dossier (possibilité de lier plusieurs conteneurs à ce même volume)
 * `-v <chemin-hote>:<chemin-conteneur>` Création d'un bind mount dans le but de lier un chemin de fichier / dossier entre le conteneur et l'hôte
 * `--network <nom>` Pour faire en sorte de brancher le conteneur à un réseau
+
+### Pour sauvegarder l'état d'un conteneur afin d'en avoir une image 
+
+```bash
+docker commit <nom | id> <nom-image>
+```
 
 ### Pour stopper des conteneurs
 
