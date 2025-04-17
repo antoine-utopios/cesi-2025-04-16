@@ -51,7 +51,7 @@ Vérification des informations contenues dans la base de données :
 ```bash
 docker exec -it exo05 mysql -u root -p 
 
-# On tape le mode de passe 
+# On tape le mot de passe 
 ```
 
 Une fois connecté, on vérifie les données présentes dans la BdD :

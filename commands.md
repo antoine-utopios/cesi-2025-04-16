@@ -97,3 +97,36 @@ docker network create <nom>
 ```bash
 docker <resource> ls
 ```
+
+# Démo Dockerfile
+
+```dockerfile
+
+# Permet de choisir une image de base pour la suite des instructions
+FROM image 
+
+# Choisir un dossier de travail pour la suite des commandes (création à la volée si non existant)
+WORKDIR /chemin/dossier
+
+# On va exécuter la suite des instructions dans le build en tant que...
+USER utilisateur
+
+# Pour exécuter des commandes lors du build de notre image
+RUN command subcommand 
+RUN ["command", "subcommand"]
+
+# Ajouter des fichiers dans l'image
+COPY <chemin-hote> <chemin-image>
+
+# Ajouter des fichiers dans l'image (plus de fichiers pris en charge, désarchivage à la volée)
+ADD <chemin-hote> <chemin-image>
+
+# Exposer un port (pour informer que le conteneur peut être branché à ce port)
+EXPOSE port
+
+# On choisi le point d'entrée dans le conteneur avec l'instruction suivante
+CMD ["command", "subcommand"]
+
+# On choisi le point d'entrée dans le conteneur avec l'instruction suivante (Plus resctrictive et utilisée pour faire des conteneurs utilitaires)
+ENTRYPOINT ["command", "subcommand"]
+```
