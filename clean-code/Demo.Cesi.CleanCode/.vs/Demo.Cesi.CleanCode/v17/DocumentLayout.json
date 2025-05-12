@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\classes\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\classes\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\classes\\voitureelectrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\classes\\voitureelectrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\classes\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\classes\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\interfaces\\ivehiculeagazoile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\interfaces\\ivehiculeagazoile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\interfaces\\iremplissablegazoile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\interfaces\\iremplissablegazoile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\interfaces\\idemarrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\interfaces\\idemarrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\classes\\operationclassique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\classes\\operationclassique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\demo.cesi.solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\demo.cesi.solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\interfaces\\ioperationbancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\interfaces\\ioperationbancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.cleancode\\demo.cesi.solid\\classes\\operationpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC697E0-1278-48E7-8920-C702935B06A0}|Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj|solutionrelative:demo.cesi.solid\\classes\\operationpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\Garage.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Classes\\Garage.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\Garage.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Classes\\Garage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:51:32.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVehiculeAGazoile.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IVehiculeAGazoile.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Interfaces\\IVehiculeAGazoile.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IVehiculeAGazoile.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Interfaces\\IVehiculeAGazoile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:49:13.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoitureElectrique.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\VoitureElectrique.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Classes\\VoitureElectrique.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\VoitureElectrique.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Classes\\VoitureElectrique.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:43:03.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\Voiture.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Classes\\Voiture.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\Voiture.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Classes\\Voiture.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:41:59.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Program.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Program.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:25:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Classes\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\BankAccount.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Classes\\BankAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:28:04.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRemplissableGazoile.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IRemplissableGazoile.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Interfaces\\IRemplissableGazoile.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IRemplissableGazoile.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Interfaces\\IRemplissableGazoile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:47:05.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDemarrable.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IDemarrable.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Interfaces\\IDemarrable.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IDemarrable.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Interfaces\\IDemarrable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:41:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOperationBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IOperationBancaire.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Interfaces\\IOperationBancaire.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Interfaces\\IOperationBancaire.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Interfaces\\IOperationBancaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:38:03.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Demo.Cesi.Solid",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Demo.Cesi.Solid.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T07:37:40.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperationPremium.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\OperationPremium.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Classes\\OperationPremium.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\OperationPremium.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Classes\\OperationPremium.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:35:41.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OperationClassique.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\OperationClassique.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Solid\\Classes\\OperationClassique.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.CleanCode\\Demo.Cesi.Solid\\Classes\\OperationClassique.cs",
+              "RelativeToolTip": "Demo.Cesi.Solid\\Classes\\OperationClassique.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:35:08.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
