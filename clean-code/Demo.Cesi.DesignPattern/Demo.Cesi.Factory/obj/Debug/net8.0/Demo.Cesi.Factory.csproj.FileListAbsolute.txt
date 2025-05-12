@@ -1,0 +1,15 @@
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\bin\Debug\net8.0\Demo.Cesi.Factory.exe
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\bin\Debug\net8.0\Demo.Cesi.Factory.deps.json
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\bin\Debug\net8.0\Demo.Cesi.Factory.runtimeconfig.json
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\bin\Debug\net8.0\Demo.Cesi.Factory.dll
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\bin\Debug\net8.0\Demo.Cesi.Factory.pdb
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.AssemblyInfoInputs.cache
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.AssemblyInfo.cs
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.csproj.CoreCompileInputs.cache
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.sourcelink.json
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.dll
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\refint\Demo.Cesi.Factory.dll
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.pdb
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\Demo.Cesi.Factory.genruntimeconfig.cache
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Factory\obj\Debug\net8.0\ref\Demo.Cesi.Factory.dll

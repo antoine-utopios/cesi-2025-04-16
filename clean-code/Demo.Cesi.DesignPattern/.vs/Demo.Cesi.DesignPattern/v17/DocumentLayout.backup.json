@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892A9BF2-3139-453D-A916-AE59CDFDFE3B}|Demo.Cesi.Builder\\Demo.Cesi.Builder.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.designpattern\\demo.cesi.builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A9BF2-3139-453D-A916-AE59CDFDFE3B}|Demo.Cesi.Builder\\Demo.Cesi.Builder.csproj|solutionrelative:demo.cesi.builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A9BF2-3139-453D-A916-AE59CDFDFE3B}|Demo.Cesi.Builder\\Demo.Cesi.Builder.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.designpattern\\demo.cesi.builder\\classes\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A9BF2-3139-453D-A916-AE59CDFDFE3B}|Demo.Cesi.Builder\\Demo.Cesi.Builder.csproj|solutionrelative:demo.cesi.builder\\classes\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.designpattern\\demo.cesi.decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|solutionrelative:demo.cesi.decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.designpattern\\demo.cesi.decorator\\classes\\consoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|solutionrelative:demo.cesi.decorator\\classes\\consoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.designpattern\\demo.cesi.decorator\\extensions\\myextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|solutionrelative:demo.cesi.decorator\\extensions\\myextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.designpattern\\demo.cesi.decorator\\classes\\consoleloggerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|solutionrelative:demo.cesi.decorator\\classes\\consoleloggerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|c:\\users\\gharr\\documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\demo.cesi.designpattern\\demo.cesi.decorator\\interfaces\\iconsoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A442211-C0CD-4FB8-BD1D-FCA7A6C2B72B}|Demo.Cesi.Decorator\\Demo.Cesi.Decorator.csproj|solutionrelative:demo.cesi.decorator\\interfaces\\iconsoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Builder\\Classes\\AppUser.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Builder\\Classes\\AppUser.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Builder\\Classes\\AppUser.cs",
+              "RelativeToolTip": "Demo.Cesi.Builder\\Classes\\AppUser.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:51:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Builder\\Program.cs",
+              "RelativeToolTip": "Demo.Cesi.Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAADVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:51:03.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Extensions\\MyExtensions.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Decorator\\Extensions\\MyExtensions.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Extensions\\MyExtensions.cs",
+              "RelativeToolTip": "Demo.Cesi.Decorator\\Extensions\\MyExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:46:23.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleLoggerDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Classes\\ConsoleLoggerDecorator.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Decorator\\Classes\\ConsoleLoggerDecorator.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Classes\\ConsoleLoggerDecorator.cs",
+              "RelativeToolTip": "Demo.Cesi.Decorator\\Classes\\ConsoleLoggerDecorator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:39:19.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsolePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Classes\\ConsolePrinter.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Decorator\\Classes\\ConsolePrinter.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Classes\\ConsolePrinter.cs",
+              "RelativeToolTip": "Demo.Cesi.Decorator\\Classes\\ConsolePrinter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:38:16.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Program.cs",
+              "RelativeToolTip": "Demo.Cesi.Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:36:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IConsolePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Interfaces\\IConsolePrinter.cs",
+              "RelativeDocumentMoniker": "Demo.Cesi.Decorator\\Interfaces\\IConsolePrinter.cs",
+              "ToolTip": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Demo.Cesi.DesignPattern\\Demo.Cesi.Decorator\\Interfaces\\IConsolePrinter.cs",
+              "RelativeToolTip": "Demo.Cesi.Decorator\\Interfaces\\IConsolePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:37:13.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

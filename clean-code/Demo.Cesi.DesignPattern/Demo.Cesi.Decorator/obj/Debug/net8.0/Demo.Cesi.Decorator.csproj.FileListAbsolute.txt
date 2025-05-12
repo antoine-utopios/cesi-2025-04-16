@@ -1,0 +1,15 @@
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\bin\Debug\net8.0\Demo.Cesi.Decorator.exe
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\bin\Debug\net8.0\Demo.Cesi.Decorator.deps.json
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\bin\Debug\net8.0\Demo.Cesi.Decorator.runtimeconfig.json
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\bin\Debug\net8.0\Demo.Cesi.Decorator.dll
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\bin\Debug\net8.0\Demo.Cesi.Decorator.pdb
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.AssemblyInfoInputs.cache
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.AssemblyInfo.cs
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.sourcelink.json
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.dll
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\refint\Demo.Cesi.Decorator.dll
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.pdb
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\Demo.Cesi.Decorator.genruntimeconfig.cache
+C:\Users\gharr\Documents\.repos\github-utopios\cesi-2025-04-16\clean-code\Demo.Cesi.DesignPattern\Demo.Cesi.Decorator\obj\Debug\net8.0\ref\Demo.Cesi.Decorator.dll
