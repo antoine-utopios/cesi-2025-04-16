@@ -19,7 +19,7 @@ docker image ls
 ### Récupérer une image sur DockerHub 
 
 ```bash
-docker pull <nom-image>
+docker pull <nom-image>:<nom-tag>
 ```
 
 ### Pour rechercher des images disponibles sur le registre lié 
@@ -45,6 +45,7 @@ docker run <nom-image>
 * `-d` Pour lancer le conteneur en détaché
 * `--name` Pour nommer notre conteneur et éviter de le perdre 
 * `--rm` Pour supprimer les données également lors de la suppression du conteneur
+* `-e` Pour donner des variables d'environnement à notre conteneur lors de son initialisation
 * `-p <port-hote>:<port-conteneur>` Pour faire du port forwarding entre l'hôte (notre machine) et le conteneur
 * `-v <chemin-conteneur>` Création d'un volume anonyme dans le but de sauvegarder un chemin de fichier / dossier
 * `-v <nom-volume>:<chemin-conteneur>` Création d'un volume nommé  dans le but de sauvegarder un chemin de fichier / dossier (possibilité de lier plusieurs conteneurs à ce même volume)

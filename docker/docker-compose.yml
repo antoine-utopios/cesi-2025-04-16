@@ -1,0 +1,26 @@
+services:
+  mysql-server:
+    image: mysql
+    container_name: mysql-server
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping"]
+      interval: 10s
+      timeout: 15s
+      retries: 3
+    ports:
+      - "3306:3306"
+      - "33060:33060"
+    volumes:
+      - mysql-data:/var/lib/mysql
+  mysql-client:
+    image: mysql
+    container_name: mysql-client
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+    depends_on:
+      - mysql-server
+
+volumes:
+  mysql-data:

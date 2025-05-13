@@ -1,0 +1,29 @@
+{
+  "name": "logger-api-01",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "homepage": "https://gitlab.com/gharrowbm/node-logger-api-01#readme",
+  "bugs": {
+    "url": "https://gitlab.com/gharrowbm/node-logger-api-01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/gharrowbm/node-logger-api-01.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start:dotenv": "dotenv -- node index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv-cli": "^8.0.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7"
+  }
+}
