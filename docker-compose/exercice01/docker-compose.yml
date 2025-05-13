@@ -1,0 +1,41 @@
+services:
+  mysql:
+    image: mysql
+    container_name: mysql
+    restart: unless-stopped
+    env_file:
+      - env-files/database.env
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 15s
+      retries: 3
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+  logs-api:
+    container_name: logs-api
+    build:
+      context: ./node-logger-api-01-main
+    depends_on:
+      mysql:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+    env_file:
+      - env-files/node-api.env
+
+  dogs-api:
+    container_name: dogs-api
+    build:
+      context: ./dotnet-basic-dog-api-master
+    depends_on:
+      mysql:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+    env_file:
+      - env-files/dotnet-api.env
+
+volumes:
+  mysql-data:

@@ -49,6 +49,7 @@ app.post("/api/v1/logs", async (req, res) => {
 });
 
 app.listen(port, async () => {
+  console.log(`DB_URL: ${process.env.DB_URL}`);
   await LogEntry.sync({ force: true });
   console.log("The table for the LogEntry model was just (re)created!");
 });
